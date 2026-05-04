@@ -1,0 +1,9 @@
+phonenumbers
+whois
+dnspython
+shodan
+ipinfo
+vt-py
+vk-api
+python-telegram-bot
+requests
